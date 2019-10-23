@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*Rproj
+#Ignore these folders
+images/
+examples/
+
+#Ignore these file types
+*.csv
+*.txt
+*.docx
+*.xlsx
+*.png
+
+#Ignore these files
+test_nb.Rmd
+.Rhistory

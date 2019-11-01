@@ -12,7 +12,7 @@ Turtles are thought to have no parental care after oviposition, and instead fema
 
  **Link to webpage containing some figures and tables**
 
- https://lthiem.github.io/Thesis-Oviductal-Egg-Retention/
+https://lthiem.github.io/Thesis-Oviductal-Egg-Retention/
  
  
 **References**
